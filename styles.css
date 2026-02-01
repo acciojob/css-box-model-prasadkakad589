@@ -1,8 +1,8 @@
-#box {
-            width: 300px;                 /* exact width */
-            background-color: lightblue;  /* background color */
-            border: 15px solid blue;      /* border */
-            padding: 50px;                /* padding inside the box */
-            margin: 20px;                 /* margin outside the box */
-            box-sizing: border-box;       /* include padding & border in width */
+.box {
+            width: 300px;                
+            background-color: lightblue;  
+            border: 15px solid blue;      
+            padding: 50px;
+            margin: 20px;                
+            box-sizing: border-box;       
 }
